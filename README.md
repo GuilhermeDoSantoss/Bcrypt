@@ -1,4 +1,4 @@
-🔐 Mini Projeto - BCrypt em Java
+## 🔐 Mini Projeto - BCrypt em Java
 
 
 Este é um mini projeto Java que demonstra como utilizar o algoritmo BCrypt para criptografar e verificar senhas de forma ágil e segura. 
